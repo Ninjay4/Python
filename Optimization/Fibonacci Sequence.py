@@ -1,10 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Aug 29 22:59:54 2021
-Nina Alexander
-Math 4211
+NinJay4
 Fibonacci Sequence
-@author: nina_
 """
 # Function for nth Fibonacci number
 def Fibonacci(n):
