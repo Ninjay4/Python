@@ -1,9 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Oct  2 23:45:51 2021
-Math 4211
-#8.25
-@author: nina_
+NinJay4
 """
 import numpy as np
 
