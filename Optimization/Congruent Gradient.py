@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Nina Alexander
-Math 4211
-Homework #5
-#10.11
+NinJay4
 This program is still in the debugging process. Not working yet...
 """
 import numpy as np
