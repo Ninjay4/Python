@@ -1,10 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Sep 19 20:44:52 2021
-Nina Alexander
-7.10
-Math 4211
-@author: nina_
+NinaJay4
 """
 import numpy as np
 
