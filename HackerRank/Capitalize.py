@@ -12,12 +12,24 @@
 
 
 # Create a capitalization function
+# This function only works when a name section does NOT have
+# any apostrophe's nor hyphens
+#def solve(s):
+#    caps = s.title()
+#    return caps
+
+
+# In[5]:
+
+
+# Create another capitalization function
+import string
 def solve(s):
-    caps = s.title()
+    caps = string.capwords(s, " ")
     return caps
 
 
-# In[3]:
+# In[8]:
 
 
 # Create the input string
@@ -25,7 +37,7 @@ def solve(s):
 s = input("Enter the first and last name: ")
 
 
-# In[4]:
+# In[9]:
 
 
 # Run the function
