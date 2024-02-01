@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Aug 29 17:58:18 2021
-NinJay4
+Ninjay4
 Quadratic Formula
 Description: This program finds the real roots
 of ax^2 + bx + c if b^2 > 4ac. Or it will return
