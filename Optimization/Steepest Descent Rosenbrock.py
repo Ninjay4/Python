@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Oct  2 23:45:51 2021
-NinJay4
+Ninjay4
+Steepest Descent using Rosenbrock's Function
 """
 import numpy as np
 
