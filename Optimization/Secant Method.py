@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Sep 19 20:44:52 2021
-NinJay4
+Ninjay4
 This program utilizes the Secant Method
 Without using Numpy
 """
