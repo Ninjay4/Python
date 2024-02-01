@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Sep 19 20:44:52 2021
-NinaJay4
+Ninjay4
+Secant Method using NumPy
 """
 import numpy as np
 
