@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-NinJay4
+Ninjay4
 This program is still in the debugging process. Not working yet...
 """
 import numpy as np
