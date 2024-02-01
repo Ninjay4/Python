@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Aug 29 22:59:54 2021
-NinJay4
+Ninjay4
 Fibonacci Sequence
 """
 # Function for nth Fibonacci number
