@@ -1,16 +1,18 @@
 #!/usr/bin/env python
 # coding: utf-8
-
+'''
+    Created by Ninjay4
+    On 1/26/24
+    File Name: Find a String.py
+    Description: Given a string and a substring, print the number of times 
+        that the substring occurs in the string 
+        String traversal will take place from left to right, not from right to left
+        NOTE: String letters are case-sensitive
+    Python Version: 3
+'''
 # In[1]:
 
-
-# Given a string and a substring, print the number of times that the substring occurs in the string 
-# String traversal will take place from left to right, not from right to left
-# NOTE: String letters are case-sensitive
-
-
 # In[10]:
-
 
 # Create a "Count_Substring" Funtion
 def count_substring(string, sub_string):
@@ -21,9 +23,7 @@ def count_substring(string, sub_string):
             c +=1
     return c
 
-
 # In[11]:
-
 
 # Create the inputs
 # The first line of input contains the original string
@@ -34,16 +34,12 @@ def count_substring(string, sub_string):
 string = input("Enter the string: ").strip()
 sub_string = input("Enter the sub_string: ").strip()
 
-
 # In[12]:
-
 
 # Find the result
 result = count_substring(string, sub_string)
 print(result)
 
-
-# In[ ]:
 
 
 
